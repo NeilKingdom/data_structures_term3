@@ -1,0 +1,18 @@
+1 2 1 2020 10 0 StaffMeeting T307
+1 2 2 2020 11 30 StaffMeeting T307
+1 3 3 2020 9 0 CommitteeMeeting T317
+2 2 3 2020 11 0 CST8130Class
+2 2 2 2020 18 0 CST8130Test
+2 2 3 2020 16 0 CST8130LabDue
+2 2 3 2020 15 30 CST8130Class
+3 2 1 2020 14 0 Work BestBuy 8
+3 2 2 2020 17 0 Work Library 4
+3 2 2 2020 18 0 Work BestBuy 8
+3 4 2 2020 7 0 Work Library 7
+4 2 3 2020 17 30 Gym
+4 3 3 2020 7 0 Gym 
+4 3 3 2020 17 30 Gym
+4 4 3 2020 7 0 Gym
+4 4 3 2020 17 30 Gym
+5 2 1 2020 9 0 Breakfast 
+5 2 2 2020 22 0 Party
