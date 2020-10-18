@@ -1,0 +1,6 @@
+5
+CST8130Class 4 john@test.com doe@yahoo.com mark@gmail.com perfectStudent@hotmail.com
+Friends 2 mickeyMouse@gmail.com donaldDuck@gmail.com
+Family 4 brother@rogers.com sister@rogers.com mother@rogers.com father@rogers.com
+Work 1 boss@hotmail.com
+ExtendedFamily 10 cousin1@rogers.com cousin2@rogers.com cousin3@rogers.com cousin4@rogers.com cousin5@rogers.com cousin6@rogers.com cousin7@rogers.com cousin8@rogers.com cousin9@rogers.com cousin10@rogers.com

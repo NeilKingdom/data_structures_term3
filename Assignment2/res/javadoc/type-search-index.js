@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"emaildirectory","l":"Assign2"},{"p":"emaildirectory","l":"Directory"},{"p":"emaildirectory","l":"EmailAddress"},{"p":"emaildirectory","l":"EmailList"},{"p":"emaildirectory","l":"LLNode"}];updateSearchResults();
